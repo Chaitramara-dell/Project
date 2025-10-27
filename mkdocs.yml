@@ -5,7 +5,8 @@ theme:
 
 nav:
   - Home: index.md
-  - FAQ: faq.md 
+  - FAQ: faq.md
+  - Introduction: introduction.md 
 
 site_url: https://chaitramara-dell.github.io/Project/ 
 
